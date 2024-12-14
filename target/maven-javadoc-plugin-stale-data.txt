@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/Lenovo/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/Lenovo/Documents/NetBeansProjects/GestionGarajeOriginal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Lenovo/Documents/NetBeansProjects/GestionGarajeOriginal/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GestionGarajeOriginal 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GestionGarajeOriginal 1.0-SNAPSHOT API'
+com.mycompany.gestiongarajeoriginal
+C:\Users\Lenovo\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar = 1716030400102
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\src\main\java = 1734090219478
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\allclasses-index.html = 1734169766609
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\allpackages-index.html = 1734169766613
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\copy.svg = 1734169766657
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\element-list = 1734169766556
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\help-doc.html = 1734169766648
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\index-all.html = 1734169766635
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\index.html = 1734169766641
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\link.svg = 1734169766660
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\member-search-index.js = 1734169766620
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\module-search-index.js = 1734169766615
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\overview-tree.html = 1734169766594
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\package-search-index.js = 1734169766615
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\script.js = 1734169766654
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\search-page.js = 1734169766669
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\search.html = 1734169766638
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\search.js = 1734169766664
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\stylesheet.css = 1734169766651
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\tag-search-index.js = 1734169766621
+C:\Users\Lenovo\Documents\NetBeansProjects\GestionGarajeOriginal\target\reports\apidocs\type-search-index.js = 1734169766618
